@@ -16,3 +16,5 @@ link : https://www.figma.com/file/zBKnYG9UNdUiIr8ClQTWSG/DESAFIO---HTML%2FCSS%2F
 - HTML
 - CSS
 - Javascript
+
+link URL : https://leandro-geraldo.github.io/faq-com-acordeon/
